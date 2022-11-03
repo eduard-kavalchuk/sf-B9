@@ -1,0 +1,25 @@
+{
+  "name": "b9.2.7",
+  "version": "1.0.0",
+  "description": "package.json for B9.2.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduard-kavalchuk/sf-B9.git"
+  },
+  "keywords": [
+    "B9.2.7"
+  ],
+  "author": "eduard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduard-kavalchuk/sf-B9/issues"
+  },
+  "homepage": "https://github.com/eduard-kavalchuk/sf-B9#readme",
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
+}
